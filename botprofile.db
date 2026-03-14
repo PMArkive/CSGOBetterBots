@@ -986,7 +986,7 @@ ProP+Rifle+RiflePersonality "JuN1"
 	VoicePitch = 89
 End
 
-ProP+Rifle+RiflePersonality "Wumbo"
+ProP+Rifle+RiflePersonality "WUMBO"
 	VoicePitch = 110
 End
 
@@ -2567,7 +2567,7 @@ ProP+Rifle+RiflePersonality "b1elany"
 	VoicePitch = 98
 End
 
-ProP+Rifle+RiflePersonality "Markoś"
+ProP+Rifle+RiflePersonality "Markos"
 	VoicePitch = 96
 End
 
@@ -5192,7 +5192,7 @@ ProP+Rifle+RiflePersonality "daneelo"
 	VoicePitch = 103
 End
 
-ProP+Rifle+RiflePersonality "marcipán"
+ProP+Rifle+RiflePersonality "marcipan"
 	VoicePitch = 101
 End
 
@@ -5674,6 +5674,78 @@ End
 
 ProP+Rifle+RiflePersonality "dott1"
 	VoicePitch = 91
+End
+
+ProP+Rifle+RiflePersonality "Polbandana"
+	VoicePitch = 109
+End
+
+ProP+Rifle+RiflePersonality "marekiew"
+	VoicePitch = 97
+End
+
+ProP+Rifle+RiflePersonality "salmon"
+	VoicePitch = 77
+End
+
+ProP+Rifle+RiflePersonality "yab0ku-"
+	VoicePitch = 108
+End
+
+ProP+SniperPro+SniperPersonality "Magic"
+	VoicePitch = 102
+End
+
+ProP+Rifle+RiflePersonality "nikitea"
+	VoicePitch = 77
+End
+
+ProP+Rifle+RiflePersonality "Br4tkO"
+	VoicePitch = 98
+End
+
+ProP+Rifle+RiflePersonality "Kiy0o"
+	VoicePitch = 88
+End
+
+ProP+Rifle+RiflePersonality "slaxejezzz"
+	VoicePitch = 86
+End
+
+ProP+SniperPro+SniperPersonality "eightz"
+	VoicePitch = 82
+End
+
+ProP+Rifle+RiflePersonality "PsychoDoctor"
+	VoicePitch = 105
+End
+
+ProP+Rifle+RiflePersonality "facecrack"
+	VoicePitch = 84
+End
+
+ProP+Rifle+RiflePersonality "abiraju"
+	VoicePitch = 84
+End
+
+ProP+Rifle+RiflePersonality "fADE"
+	VoicePitch = 95
+End
+
+ProP+Rifle+RiflePersonality "Pano"
+	VoicePitch = 111
+End
+
+ProP+Rifle+RiflePersonality "AquaRS"
+	VoicePitch = 110
+End
+
+ProP+SniperPro+SniperPersonality "b1st"
+	VoicePitch = 111
+End
+
+ProP+Rifle+RiflePersonality "F0R3VER"
+	VoicePitch = 99
 End
 
 Elite+SniperPro+SniperPersonality "XD | ryu"

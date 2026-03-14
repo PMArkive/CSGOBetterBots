@@ -1,4 +1,4 @@
-// csgosl 2.19 config 1 at Fri Feb 27 00:16:50 GMT 2026 (DO NOT TOUCH THIS HEADER LINE!!!)
+// csgosl 2.19 config 1 at Sat Mar 14 12:00:43 GMT 2026 (DO NOT TOUCH THIS HEADER LINE!!!)
 // DON'T EDIT, WILL BE OVERWRITTEN NEXT TIME YOU SAVE!!!
 workshop/3070212801/
 $10000$
@@ -31,7 +31,6 @@ $3000$_fs_v2
 828_dust
 [2stoned]xxl_cs
 aim_100hp
-aim_abbey
 aim_ak-47_go
 aim_ak-colt
 aim_ak-colt_arg
@@ -59,7 +58,6 @@ aim_blueline
 aim_catalyst
 aim_cbble
 aim_container_autosniper
-aim_crazyjump_classic
 aim_crazyjump_simpsons
 aim_crazyjump_simpsons_v2
 aim_crazyjump_updated
@@ -298,7 +296,6 @@ cs_museum
 cs_night_borough
 cs_noffice
 cs_office
-cs_office2008pro
 cs_office_2055
 cs_office_cz
 cs_office_d
@@ -308,8 +305,6 @@ cs_outpost
 cs_parum2
 cs_prospect
 cs_renovation
-cs_residence
-cs_residence_0322
 cs_rio
 cs_sauna
 cs_sauna_go
@@ -497,7 +492,6 @@ de_forge_go
 de_forlorn
 de_fortress
 de_frost
-de_garden
 de_garrison
 de_giorgi
 de_gloss_r1
@@ -823,7 +817,6 @@ fy_snow_build1
 fy_snow_cs16upscale
 fy_towelie
 fy_twotowers
-gamerpay5
 genx_brickworld3
 gg_arena_brazil
 gg_bastion_advanced

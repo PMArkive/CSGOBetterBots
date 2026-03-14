@@ -571,7 +571,7 @@
         "steamid": 905374007,
         "crosshair_code": "CSGO-cFent-VQbRj-4MnLb-b7Mxd-Y2hWA"
     },
-    "Wumbo": {
+    "WUMBO": {
         "steamid": 190075141,
         "crosshair_code": "CSGO-MrUhf-LBLTJ-pDGfU-E3TZD-7ktiB"
     },
@@ -1831,7 +1831,7 @@
         "steamid": 251942476,
         "crosshair_code": "CSGO-bP8Tp-tSbn7-9vMhj-kzpNy-Pp3cQ"
     },
-    "Markoś": {
+    "Markos": {
         "steamid": 68256934,
         "crosshair_code": "CSGO-txh6f-u36HV-VzCBu-UkdZ9-yLLTK"
     },
@@ -4819,7 +4819,7 @@
         "steamid": 1213203373,
         "crosshair_code": "CSGO-Uwbt2-thRFe-HGB6i-cb558-ihaAB"
     },
-    "marcipán": {
+    "marcipan": {
         "steamid": 444642509,
         "crosshair_code": "CSGO-xbET5-pCOVv-wyPHD-9Ty9j-mRFuA"
     },
@@ -5302,5 +5302,77 @@
     "dott1": {
         "steamid": 1145460884,
         "crosshair_code": "CSGO-NakBN-Bxqtf-VwBhQ-bY6Dc-nedBN"
+    },
+    "Polbandana": {
+        "steamid": 406370215,
+        "crosshair_code": "CSGO-AB2Qk-pxw4P-8wLvr-ErY8L-DtN6H"
+    },
+    "marekiew": {
+        "steamid": 450963722,
+        "crosshair_code": "CSGO-LdXHk-hatWX-JjEa8-tuLDN-5tbJD"
+    },
+    "salmon": {
+        "steamid": 442170090,
+        "crosshair_code": "CSGO-zdOG6-BBe7V-onKPN-atpbL-HLAfD"
+    },
+    "yab0ku-": {
+        "steamid": 858360149,
+        "crosshair_code": "CSGO-Jhfkc-4UpR6-DJftC-VfGek-pL3ED"
+    },
+    "Magic": {
+        "steamid": 1486844339,
+        "crosshair_code": "CSGO-kNweN-Y49Xt-wFjGv-CeNoB-JG8nM"
+    },
+    "nikitea": {
+        "steamid": 279847522,
+        "crosshair_code": "CSGO-NmcdV-ORLFj-vKC4W-LV6zW-4fWjM"
+    },
+    "Br4tkO": {
+        "steamid": 161584881,
+        "crosshair_code": "CSGO-KPVx7-Qhwnh-eabmv-8XdSG-5Yt4N"
+    },
+    "Kiy0o": {
+        "steamid": 1057315195,
+        "crosshair_code": "CSGO-6xiHJ-3YqJj-4YaAe-zDp2r-XobxJ"
+    },
+    "slaxejezzz": {
+        "steamid": 395986293,
+        "crosshair_code": "CSGO-c3mw3-zHbbD-eTQuL-mfUV9-qsN6H"
+    },
+    "eightz": {
+        "steamid": 271440244,
+        "crosshair_code": "CSGO-TLNpv-wzRVJ-8tBTL-fS5yV-5EWzE"
+    },
+    "PsychoDoctor": {
+        "steamid": 862045039,
+        "crosshair_code": "CSGO-wS93V-DS5Mc-eRETy-5Sjw7-xtWPA"
+    },
+    "facecrack": {
+        "steamid": 115742145,
+        "crosshair_code": "CSGO-wPKpm-7oOxB-2xQ5o-NJX5O-ey3JE"
+    },
+    "abiraju": {
+        "steamid": 1121977145,
+        "crosshair_code": "CSGO-DAyK9-wewCj-ShFuU-O4FE7-jxSyL"
+    },
+    "fADE": {
+        "steamid": 215964173,
+        "crosshair_code": "CSGO-u6Njm-ssz8u-CN9eo-cWyr7-ZmRBD"
+    },
+    "Pano": {
+        "steamid": 159609717,
+        "crosshair_code": "CSGO-AiD9t-ev6Wo-DX2vE-PaNt7-NDR7B"
+    },
+    "AquaRS": {
+        "steamid": 839881894,
+        "crosshair_code": "CSGO-Xe5rB-9e54h-MSypE-pY5OZ-qDZ2Q"
+    },
+    "b1st": {
+        "steamid": 882192528,
+        "crosshair_code": "CSGO-uicWB-Ki8z5-k5pSU-tixQS-QqhrM"
+    },
+    "F0R3VER": {
+        "steamid": 1052115620,
+        "crosshair_code": "CSGO-zeWwv-wWbhH-9TEV2-TyTr7-ZmRBD"
     }
 }

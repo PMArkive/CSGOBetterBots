@@ -22,7 +22,7 @@
 	}
 	"9INE"
 	{
-		"players"	"raalz,kraghen,cej0t,bnox,shield"
+		"players"	"raalz,kraghen,cej0t,bnox,Flayy"
 		"logo"	"nein"
 	}
 	"9z Team"
@@ -47,7 +47,7 @@
 	}
 	"Alter Ego"
 	{
-		"players"	"tomiko,b1lal,BnTeT,rate,Gratisfaction"
+		"players"	"b1lal,BnTeT,Gratisfaction,Polbandana,BOROS"
 		"logo"	"alter"
 	}
 	"Astralis"
@@ -77,7 +77,7 @@
 	}
 	"BESTIA"
 	{
-		"players"	"Noktse,tomaszin,cass1n,buda,nacho"
+		"players"	"tomaszin,cass1n,timo,buda,nacho"
 		"logo"	"best"
 	}
 	"BIG"
@@ -95,10 +95,20 @@
 		"players"	"Hanka,Emmsan,ASTRA,sosya,aiM"
 		"logo"	"bige"
 	}
+	"BOSS"
+	{
+		"players"	"SLIGHT,Bwills,stanislaw,marekiew,WUMBO"
+		"logo"	"boss"
+	}
 	"BRUTE"
 	{
 		"players"	"SiKO,realzen,KAD1M,mASKED,hfah"
 		"logo"	"brut"
+	}
+	"Bekescsabai E-Sport Egyesulet"
+	{
+		"players"	"RIP,baiano,daneelo,marcipan,Gyhufaaa"
+		"logo"	"bee"
 	}
 	"BetBoom Team"
 	{
@@ -120,20 +130,10 @@
 		"players"	"darendeli,Vej,cadnyx,eNs,scolleN"
 		"logo"	"bw"
 	}
-	"Békéscsabai E-Sport Egyesület"
-	{
-		"players"	"RIP,baiano,daneelo,marcipán,Gyhufaaa"
-		"logo"	"bee"
-	}
 	"CYBERSHOKE Esports"
 	{
 		"players"	"FenomeN,bl1x1,glowiing,alpha,Mokuj1n"
 		"logo"	"cyber"
-	}
-	"Change The Game"
-	{
-		"players"	"LaiKeXu,957,Hack1ng,VanceKK,lyrics3"
-		"logo"	"ctg"
 	}
 	"Chinggis Warriors"
 	{
@@ -149,11 +149,6 @@
 	{
 		"players"	"Anlelele,nut nut,TMB,Buzz,nicoodoz"
 		"logo"	"ecs"
-	}
-	"ENCE"
-	{
-		"players"	"sdy,podi,Neityu,F1KU,kRaSnaL"
-		"logo"	"ence"
 	}
 	"ENCE Academy"
 	{
@@ -197,7 +192,7 @@
 	}
 	"FengDa Gaming"
 	{
-		"players"	"p5p,3gl,x9,Biuckmt,Trash"
+		"players"	"p5p,3gl,Biuckmt,Trash,salmon"
 		"logo"	"feng"
 	}
 	"Fisher College"
@@ -227,7 +222,7 @@
 	}
 	"G2 Esports"
 	{
-		"players"	"huNter-,malbsMd,HeavyGod,SunPayus,matys"
+		"players"	"huNter-,HeavyGod,SunPayus,matys,NertZ"
 		"logo"	"g2"
 	}
 	"Gaimin Gladiators"
@@ -282,23 +277,23 @@
 	}
 	"Inner Circle Esports"
 	{
-		"players"	"onic,Flierax,Dawy,zeRRoFIX,cptkurtka023"
+		"players"	"onic,Dawy,zeRRoFIX,cptkurtka023,headtr1ck"
 		"logo"	"ice"
-	}
-	"Isurus"
-	{
-		"players"	"deco,atarax1a,Hezz,dott1,timo"
-		"logo"	"isur"
 	}
 	"Johnny Speeds"
 	{
-		"players"	"draken,Sapec,Lekr0,HEAP,jocab"
+		"players"	"Sapec,Lekr0,HEAP,jocab,nawwk"
 		"logo"	"speed"
 	}
 	"K27"
 	{
 		"players"	"kashl1d,relaxxie,xeedo,qw1nk1,X5G7V"
 		"logo"	"k27"
+	}
+	"Keyd Stars"
+	{
+		"players"	"CutzMeretz,t9rnay,lash,matios,xureba"
+		"logo"	"keyds"
 	}
 	"Kitsune Esports"
 	{
@@ -309,6 +304,11 @@
 	{
 		"players"	"zmb,happ,Leomonster,divine,Alisson"
 		"logo"	"larg"
+	}
+	"Lazer Cats"
+	{
+		"players"	"yab0ku-,Magic,nikitea,Br4tkO,Kiy0o"
+		"logo"	"lazer"
 	}
 	"Legacy"
 	{
@@ -322,7 +322,7 @@
 	}
 	"Life's A Game"
 	{
-		"players"	"Sandman,consti,djay,kmrn,Wolffe"
+		"players"	"Sandman,consti,djay,kmrn,Cryptic"
 		"logo"	"lag"
 	}
 	"Lynn Vision Gaming"
@@ -339,11 +339,6 @@
 	{
 		"players"	"ammar,Caleyy,BledarD,cerber,SENER1"
 		"logo"	"mana"
-	}
-	"MASONIC"
-	{
-		"players"	"Noruyp,Botman,Bukhavez,KralleJ,Avou"
-		"logo"	"maso"
 	}
 	"MIBR"
 	{
@@ -407,7 +402,7 @@
 	}
 	"NRG"
 	{
-		"players"	"oSee,nitr0,Jeorge,br0,Sonic"
+		"players"	"oSee,nitr0,br0,Sonic,Grim"
 		"logo"	"nr"
 	}
 	"Natus Vincere"
@@ -447,7 +442,7 @@
 	}
 	"OG"
 	{
-		"players"	"spooke,adamb,arrozdoce,cadiaN,FL4MUS"
+		"players"	"spooke,adamb,arrozdoce,cadiaN,bodyy"
 		"logo"	"og"
 	}
 	"PARIVISION"
@@ -460,10 +455,10 @@
 		"players"	"Kvem,JT,nicx,try,Senzu"
 		"logo"	"pass"
 	}
-	"Permitta Esports"
+	"Phantom Esports"
 	{
-		"players"	"olivR,ar1don,kzy,kamikadze,Byfield"
-		"logo"	"perm"
+		"players"	"Kunai,Kylar,mynio,KEi,mwlky"
+		"logo"	"phan"
 	}
 	"Playing Ducks"
 	{
@@ -474,6 +469,11 @@
 	{
 		"players"	"gehji,kaiori,1zz,newt,Ne1XXX"
 		"logo"	"qua"
+	}
+	"QWENTRY"
+	{
+		"players"	"slaxejezzz,eightz,PsychoDoctor,facecrack,abiraju"
+		"logo"	"qwen"
 	}
 	"RED Canids"
 	{
@@ -505,11 +505,6 @@
 		"players"	"beastik,SHOCK,kisserek,stressarN,MoDo"
 		"logo"	"sinn"
 	}
-	"Sangal Esports"
-	{
-		"players"	"danistzz,clax,Patsi,R4DYX,pr1metapz"
-		"logo"	"sang"
-	}
 	"SemperFi Esports"
 	{
 		"players"	"SaVage,keen,shadiy,HaZR,ADDICT"
@@ -524,6 +519,11 @@
 	{
 		"players"	"abizz,ivz,naz,tom1jed,FraGuTy"
 		"logo"	"shin"
+	}
+	"Sissi State Punks"
+	{
+		"players"	"farmaG,Cl34v3rs,oli,fADE,kinQ"
+		"logo"	"ssp"
 	}
 	"Steel Helmet"
 	{
@@ -542,13 +542,18 @@
 	}
 	"Team LEISURE"
 	{
-		"players"	"BischeR,NZyyy,julz,DREAd,zDragZzz"
+		"players"	"BischeR,julz,DREAd,zDragZzz,Pano"
 		"logo"	"leis"
 	}
 	"Team Liquid"
 	{
-		"players"	"NAF,ultimate,NertZ,siuhy,EliGE"
+		"players"	"NAF,ultimate,siuhy,EliGE,malbsMd"
 		"logo"	"liq"
+	}
+	"Team Nemesis"
+	{
+		"players"	"SELLTER,Sdaim,tex1y,mag1k3Y,r3salt"
+		"logo"	"tn"
 	}
 	"Team Spirit"
 	{
@@ -564,11 +569,6 @@
 	{
 		"players"	"apEX,ZywOo,flameZ,mezii,ropz"
 		"logo"	"vita"
-	}
-	"Team Voca"
-	{
-		"players"	"shane,snav,dea,nosraC,Infinite"
-		"logo"	"voca"
 	}
 	"The Huns Esports"
 	{
@@ -590,9 +590,19 @@
 		"players"	"K1-FiDa,NEOFRAG,woozzzi,MoriiSko,M1key"
 		"logo"	"unit"
 	}
+	"Virtus.pro"
+	{
+		"players"	"tO0RO,b1st,mir,AquaRS,F0R3VER"
+		"logo"	"vp"
+	}
+	"WOPA Esport"
+	{
+		"players"	"Zanto,thamlike,Patti,kwezz,sL1m3"
+		"logo"	"wop"
+	}
 	"Wildcard"
 	{
-		"players"	"Peeping,reck,CLASIA,mhL,HexT"
+		"players"	"Peeping,reck,mhL,HexT,nEMANHA"
 		"logo"	"wc"
 	}
 	"Young Ninjas"
@@ -607,7 +617,7 @@
 	}
 	"los kogutos"
 	{
-		"players"	"Nami,AdrieN,maaryy,yvro,Markoś"
+		"players"	"Nami,AdrieN,maaryy,yvro,Markos"
 		"logo"	"lk"
 	}
 	"paiN Gaming"

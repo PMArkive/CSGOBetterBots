@@ -1081,7 +1081,6 @@ public void OnPluginEnd()
 			OnClientDisconnect(i);
 	}
 }
-
 stock void UpdateStatTrakFromRankMe(int client, int iDefIndex, int[] iWeaponsReturn)
 {
 	if (iDefIndex >= 0 && iDefIndex < sizeof(g_iWeaponToRankMe) && g_iWeaponToRankMe[iDefIndex] != -1)
